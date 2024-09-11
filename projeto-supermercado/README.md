@@ -8,9 +8,10 @@ Esse projeto consistiu na utilização da ferramenta Excel para realizar um dash
 **2.** Etapa de pré-processamento dos dados com o uso do Power Query. <br>
 **3.** Formação das perguntas de negócio. <br>
 **4.** Realização das análises dinâmicas baseadas nas perguntas de negócio. <br>
-**5.** Criação dos gráficos. <br>
-**6.** Criação do Dashboard. <br>
-**7.** Revisão do Dashboard, aprimoramento do conjunto de cores, etc. <br>
+**5.** Modelagem de Dados: nesse caso optei por fazer a *Star Schema* utilizando o Power Pivot.<br>
+**6.** Criação dos gráficos. <br>
+**7.** Criação do Dashboard. <br>
+**8.** Revisão do Dashboard, aprimoramento do conjunto de cores, etc. <br>
 
 
 ## **Perguntas de Negócio 💼**
