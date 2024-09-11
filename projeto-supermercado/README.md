@@ -41,3 +41,7 @@ Essa pergunta permite gerir melhor o estoque, com a saída e reposição dos pro
 **9)** Qual é a Receita Total gerada nesse tempo analisado? <br>
 
 Essas quatro perguntas referem-se aos Cards do Dashboard, as quatro em conjunto permitem analisar de forma rápida e intuitiva como a rede de Supermercados desempenhou nos três meses analisados, sua receita bruta, o ticket médio por cliente, a satisfação média durante esse tempo e o total de produtos vendidos também. Somado à isso, todos os Cards também são interativos, permitindo analisar todas essas perguntas de acordo com Filial, Mês e Gênero (masculino ou feminino) dos clientes. Portanto, elas trazem informações minuciosas.
+
+## Dashboard 
+
+<img src= "https://i.ibb.co/6WNfLfY/Captura-de-tela-2024-09-11-111045.png">
